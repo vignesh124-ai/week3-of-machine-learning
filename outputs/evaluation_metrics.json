@@ -1,0 +1,12 @@
+{
+    "inertia": 139.82,
+    "silhouette_score": 0.4599,
+    "davies_bouldin_index": 0.8336,
+    "calinski_harabasz_index": 241.9,
+    "accuracy": 0.8333,
+    "adjusted_rand_index": 0.6201,
+    "adjusted_mutual_info": 0.6552,
+    "homogeneity": 0.6591,
+    "completeness": 0.6598,
+    "v_measure": 0.6595
+}
